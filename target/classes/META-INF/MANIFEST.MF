@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: GerenciadorViagensMontanha
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: edio
+Implementation-Vendor-Id: com.montanha
+Build-Jdk: 1.8.0_242
+Implementation-URL: http://projects.spring.io/spring-boot/gerenciador-
+ viagens-montanha/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
